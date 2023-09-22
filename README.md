@@ -18,7 +18,7 @@ The following links showcase the contributions and content related to the genera
 
 ## Robocorp ReMark💬
 
-- **[Robocorp ReMark💬](https://chat.robocorp.com/)** - Creating a domain-specific co-pilot to help Robocorp developers build their automation faster. The initial version was based on the RAG model, and the direction is to build this using the Agent framework and allow enterprise customers to add their own data (like process descriptions, shared library documentation etc). Recent release notes [here](https://updates.robocorp.com/tag/remark).
+- **[Robocorp ReMark💬](https://chat.robocorp.com/)** - Creating a domain-specific co-pilot to help Robocorp developers build their automation faster. The initial version was based on the RAG model, and the direction is to build this using the Agent framework and allow enterprise customers to add their own data (like process descriptions, shared library documentation etc).
   
 - **[Robocorp ReMark💬 Generative AI assistant announcement blog post](https://robocorp.com/blog/introducing-remark-robocorps-generative-ai-assistant)**
   
