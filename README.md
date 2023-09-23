@@ -6,7 +6,7 @@ Hi! I'm Tommi, VP of Product at [Robocorp](https://robocorp.com/). We are buildi
 
 Robocorp is based in San Francisco and backed by top investors like [Benchmark Capital](https://www.benchmark.com/), [Canvas Ventures](https://www.canvas.vc/), [Slow Ventures](https://slow-prod.herokuapp.com/) and [Harpoon](https://harpoon.vc/).
 
-The following links showcase the contributions and content related to the generative AI topic.
+The following links showcase my contributions and content in the generative AI ecosystem.
 
 ## Code examples and repos
 
