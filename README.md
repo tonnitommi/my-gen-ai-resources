@@ -1,6 +1,8 @@
 # Tommi's Gen AI Resources
 
-Hi! I'm Tommi, VP of Product at [Robocorp](https://robocorp.com/). We are building a scalable framework for running Python automation workflows. Developers from hobbyists to enterprises use our platform to operate RAG data loaders, publish skills, actions and tools from any API, data, site or app UI, and expose to Generative AI.
+Hi! I'm Tommi, VP of Product at [Robocorp](https://robocorp.com/). We are building a scalable framework for running Python automation workflows. Developers from hobbyists to enterprise operators use our platform to:
+- operate RAG data loaders in scale
+- expose and API, app or system to Generative AI agents as Skills, Tools or Activities
 
 Robocorp is based in San Francisco and backed by top investors like [Benchmark Capital](https://www.benchmark.com/), [Canvas Ventures](https://www.canvas.vc/), [Slow Ventures](https://slow-prod.herokuapp.com/) and [Harpoon](https://harpoon.vc/).
 
