@@ -10,7 +10,7 @@ The following links showcase my contributions and content in the generative AI e
 
 ## Code examples and repos
 
-- **[Langchain Prompt Templates from Robocorp Asset Storage](https://robocorp.com/portal/robot/tonnitommi/example-prompt-template-assets)** - Maintain prompt templates in Robocorp Asset Storage and improve them without touching the code.
+- **[Langchain Prompt Templates from Robocorp Asset Storage](https://robocorp.com/portal/robot/tonnitommi/example-prompt-template-assets)** - Maintain prompt templates in Robocorp Asset Storage and improve/iterate them without touching the code.
 
 - **[LLM data ingestion pipeline with Langchain & Robocorp](https://robocorp.com/portal/robot/robocorp/example-langchain-data-ingestion)** - Schedule and run your Python RAG data loaders in the cloud with Robocorp Control Room. This example shows how [Robocorp's code gen assistant ReMark💬's](https://chat.robocorp.com) vector embeddings are created in production.
 
