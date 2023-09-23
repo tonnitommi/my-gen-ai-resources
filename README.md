@@ -16,7 +16,9 @@ The following links showcase my contributions and content in the generative AI e
 
 - **[Speech-to-text AI Examples](https://robocorp.com/portal/robot/robocorp/example-whisper-transcribe)** - An example for an enterprise user working in the medical field to transcribe recordings to text. Uses OpenAI Whisper API from Huggingface Inference Endpoints to transcribe speech to text.
 
-- **[OpenAI LLM Email Assistant](https://robocorp.com/portal/robot/robocorp/example-llm-emails)** - An example where we worked with a Fortune 200 customer to optimise their payment collections process, using LLMs to summarize email threads, suggest replies and extract structured data that can be then added to Accounts Receivable system. Summarise and extract structured data from emails using OpenAI gpt-4.
+- **[OpenAI LLM Email Assistant](https://robocorp.com/portal/robot/robocorp/example-llm-emails)** - An example where we worked with a Fortune 200 customer to optimise their payment collections process, using LLMs to summarize email threads, suggest replies and extract structured data that can be then added to Accounts Receivable system. Summarise and extract structured data from emails using OpenAI `gpt-4`.
+
+- **[OpenAI API integration to Robocorp](https://github.com/robocorp/rpaframework/commits/master/packages/openai/src/RPA/OpenAI.py)** - integrating OpenAI API to RPA Framework, our open source library for automation capabilities in Python and Robot Framework. Work done together with the team.
 
 ## Robocorp ReMark💬
 
