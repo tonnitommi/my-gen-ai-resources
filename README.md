@@ -2,7 +2,7 @@
 
 Hi! I'm Tommi, VP of Product at [Sema4.ai]([https://robocorp.com/](https://sema4.ai/)). We enable enterprise to build, run and manage intelligent AI agents that transform how people work, allowing teams to quickly create powerful agents that operate with enterprise data and systems using LLMs.
 
-Sema4.ai is backed by top investors like [Benchmark Capital](https://www.benchmark.com/) and [Mayfield]([https://www.canvas.vc/](https://www.mayfield.com/).
+Sema4.ai is backed by top investors like [Benchmark Capital](https://www.benchmark.com/) and [Mayfield]([https://www.canvas.vc/](https://www.mayfield.com/)).
 
 The following links showcase my contributions and content in the generative AI ecosystem.
 
