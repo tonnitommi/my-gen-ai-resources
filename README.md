@@ -1,12 +1,21 @@
 # Tommi's Gen AI Resources
 
-Hi! I'm Tommi, VP of Product at [Robocorp](https://robocorp.com/). We are building a scalable framework for running Python automation workflows. Developers from hobbyists to enterprise operators use our platform to:
-- operate RAG data loaders in scale
-- expose and API, app or system to Generative AI agents as Skills, Tools or Activities
+Hi! I'm Tommi, VP of Product at [Sema4.ai]([https://robocorp.com/](https://sema4.ai/)). We enable enterprise to build, run and manage intelligent AI agents that transform how people work, allowing teams to quickly create powerful agents that operate with enterprise data and systems using LLMs.
 
-Robocorp is based in San Francisco and backed by top investors like [Benchmark Capital](https://www.benchmark.com/), [Canvas Ventures](https://www.canvas.vc/), [Slow Ventures](https://slow-prod.herokuapp.com/) and [Harpoon](https://harpoon.vc/).
+Sema4.ai is backed by top investors like [Benchmark Capital](https://www.benchmark.com/) and [Mayfield]([https://www.canvas.vc/](https://www.mayfield.com/).
 
 The following links showcase my contributions and content in the generative AI ecosystem.
+
+## Quick demos
+
+📼 Custom GPT using Google Sheets
+
+https://github.com/tonnitommi/my-gen-ai-resources/assets/40179958/c7a0dda0-21a7-4813-aa88-0af6eb715a2c
+
+📼 OpenGPTs searches Youtube, gets video transcripts and creates tweet threads
+
+https://github.com/tonnitommi/my-gen-ai-resources/assets/40179958/46127a4d-0949-4ea8-be9a-66f20206b57d
+
 
 ## Code examples and repos
 
